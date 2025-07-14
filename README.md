@@ -2,7 +2,7 @@
 
 A beautiful and fast web-based ToDo list app, fully self-hosted on your own NAS. No external dependencies like Firebase – all your data stays private and secure, hosted right on your Synology (or any) server.
 
-🌐 **Live Demo**: [todoapp.synology.me/todoapp](https://todoapp.synology.me/todoapp)
+🌐 **Live Demo**: [linuskjk.synology.me/todoapp](https://linuskjk.synology.me/todoapp)
 
 ---
 
@@ -65,7 +65,7 @@ Edit
 
 Try the app without any setup:
 
-- Visit [todoapp.synology.me/todoapp](https://todoapp.synology.me/todoapp)
+- Visit [todoapp.synology.me/todoapp](https://linuskjk.synology.me/todoapp)
 - Click **"Demo Mode"**
 - Play around with all features (no data saved)
 
@@ -93,7 +93,7 @@ Try the app without any setup:
 ## 🙋 Feedback
 
 Try it and let me know what you think!  
-Just leave feedback at [todoapp.synology.me/todoapp](https://todoapp.synology.me/todoapp)  
+Just leave feedback at [todoapp.synology.me/todoapp](https://linuskjk.synology.me/todoapp)  
 or message me directly.
 
 ---
