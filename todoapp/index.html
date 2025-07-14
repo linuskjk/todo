@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My ToDo App</title>
+  <link rel="stylesheet" href="../todoapp/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h2 id="currentListName">No selected list</h2>
+
+      <select id="listSelector" onchange="switchList(this.value)"></select>
+      <button onclick="deleteCurrentList()" class="logout">Delete list</button>
+
+      <input type="text" id="newListName" placeholder="Create new list" />
+      <button onclick="createList()">Create list</button>
+
+      <input type="text" id="taskInput" placeholder="New task" />
+      <button onclick="addTask()">Add Task</button>
+
+      <ul id="taskList"></ul>
+
+      <div class="sharing">
+        <input type="text" id="importCode" placeholder="Import code" />
+        <button onclick="importList()">Import</button>
+        <button onclick="shareCurrentList()">Share</button>
+
+        <label style="display:block; margin-top:10px; cursor:pointer;">
+          <input type="checkbox" id="liveSyncToggle" onchange="toggleLiveSync()" />
+          Live working together
+        </label>
+      </div>
+
+      <button class="logout" onclick="resetApp()">Delete all lists localy</button>
+    </div>
+  </div>
+  <script src="../todoapp/js/java.js"></script>
+</body>
+</html>
