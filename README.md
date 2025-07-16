@@ -65,7 +65,7 @@ Edit
 
 Try the app without any setup:
 
-- Visit [todoapp.synology.me/todoapp](https://linuskjk.synology.me/todoapp)
+- Visit [linuskjk.synology.me/todoapp](https://linuskjk.synology.me/todoapp)
 - Click **"Demo Mode"**
 - Play around with all features (no data saved)
 
@@ -93,7 +93,7 @@ Try the app without any setup:
 ## 🙋 Feedback
 
 Try it and let me know what you think!  
-Just leave feedback at [todoapp.synology.me/todoapp](https://linuskjk.synology.me/todoapp)  
+Just leave feedback at [linuskjk.synology.me/todoapp](https://linuskjk.synology.me/todoapp)  
 or message me directly.
 
 ---
